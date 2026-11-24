@@ -19,5 +19,6 @@ I build robots, circuits and control systems, and I'm looking for a **co-op or s
 
 ### Find me
 - Portfolio: https://prabvirgrewal.github.io
+- Resume (PDF): https://prabvirgrewal.github.io/Prabvir_Grewal_Resume.pdf
 - LinkedIn: https://www.linkedin.com/in/prabvirgrewal
 - Email: grewalprabvir@gmail.com
